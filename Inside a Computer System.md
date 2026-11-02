@@ -79,11 +79,11 @@ I worked through the interactive component inspection section, identifying the e
 
 The exercise provided a visual reference for the hardware and how each component fits into the overall computer system.
 
-![Computer Components](images/01-computer-components.png)
+01-computer-components.png
 
 After reviewing all the components, the inspection section was successfully completed.
 
-![Components Completed](images/02-components-completed.png)
+02-components-completed.png 
 
 ## 3. Motherboard Component Placement
 
@@ -93,11 +93,11 @@ I worked through the placement of the CPU, RAM, graphics card, network adapter, 
 
 The exercise reinforced the physical layout of a motherboard and the different connections used by each component.
 
-![Motherboard Exercise](images/03-motherboard-exercise.png)
+03-motherboard-exercise.png
 
 After correctly positioning the components, the exercise confirmed successful completion and displayed the room flag.
 
-![Exercise Completed](images/04-exercise-completed.png)
+04-exercise-completed.png
 
 **Flag:**
 
