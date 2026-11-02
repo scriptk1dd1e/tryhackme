@@ -78,6 +78,10 @@ The main point was that computer hardware and design depend on what the system i
 
 Completed the interactive challenge at the end of the room, applying the concepts covered throughout the module to identify the different types of computers and their intended purposes.
 
+<img width="1907" height="928" alt="ggg" src="https://github.com/user-attachments/assets/855b6841-327d-41f3-a3ce-a569d116232d" />
+<img width="1920" height="928" alt="gggg" src="https://github.com/user-attachments/assets/50a64330-8e6a-41a8-bd2a-2bf94018d7bc" />
+<img width="1918" height="945" alt="gggggggggggggg" src="https://github.com/user-attachments/assets/c3718c37-cf62-4eb4-a34a-d53f24329d1e" />
+
 ## Completion
 
 **Platform:** TryHackMe
