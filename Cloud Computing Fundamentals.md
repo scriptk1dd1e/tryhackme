@@ -315,7 +315,7 @@ With all three instances running, the initial monthly cost was **$170 USD**.
 
 **Initial Billing:**
 
-[INSERT SCREENSHOT - Initial billing showing $170 USD]
+<img width="1913" height="942" alt="estimate" src="https://github.com/user-attachments/assets/bb5a0255-250c-4ea5-b028-b6f3f179d244" />
 
 At this stage, the application was still under development, meaning the two study machines were not actively being used.
 
@@ -329,7 +329,7 @@ The monthly cost had decreased from **$170 USD to $30 USD**.
 
 **Updated Billing:**
 
-[INSERT SCREENSHOT - Updated billing showing $30 USD after stopping both study machines]
+<img width="1902" height="993" alt="total" src="https://github.com/user-attachments/assets/ab8e3772-ffd9-4ea7-a20f-b4849345b610" />
 
 I found this particularly useful because it demonstrated how cloud computing allows resources to be managed depending on current requirements.
 
