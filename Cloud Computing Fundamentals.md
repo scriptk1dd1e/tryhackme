@@ -329,7 +329,7 @@ The monthly cost had decreased from **$170 USD to $30 USD**.
 
 **Updated Billing:**
 
-<img width="1902" height="993" alt="total" src="https://github.com/user-attachments/assets/ab8e3772-ffd9-4ea7-a20f-b4849345b610" />
+<img width="1902" height="993" alt="total" src="https://github.com/user-attachments/assets/e3b35c6c-fe6b-4ad1-ae34-4b2385f4578b" />
 
 I found this particularly useful because it demonstrated how cloud computing allows resources to be managed depending on current requirements.
 
