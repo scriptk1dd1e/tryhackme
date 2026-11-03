@@ -55,6 +55,9 @@ ls -l   # Show detailed file and directory information
 ls -al  # Include hidden files in the detailed listing
 ```
 
+<img width="1920" height="942" alt="1" src="https://github.com/user-attachments/assets/0c542c1b-3f36-4a4a-8e6c-811558c747e1" />
+<img width="1918" height="967" alt="2" src="https://github.com/user-attachments/assets/8517e144-22f9-4552-bec2-54f5674579f4" />
+
 In Linux, hidden files usually begin with a dot (`.`). They are not necessarily secret; they are simply omitted from standard directory listings.
 
 ### Navigating directories: `cd`
@@ -71,6 +74,8 @@ The resulting path was:
 ```text
 /home/ubuntu/Documents
 ```
+
+<img width="1912" height="917" alt="3" src="https://github.com/user-attachments/assets/669e0c97-2019-4d4f-99bd-0e99a787f8aa" />
 
 To move up one directory, I used:
 
@@ -153,6 +158,8 @@ The `df -h` command displays filesystem and disk-space information. The `-h` opt
 df -h
 ```
 
+<img width="1917" height="922" alt="4" src="https://github.com/user-attachments/assets/8cc67fe6-d928-4e22-88c2-ea6c5c3c3029" />
+
 The output includes the filesystem, total capacity, used and available space, usage percentage, and mount point. The free disk space reported by the machine was:
 
 ```text
@@ -167,6 +174,7 @@ The `/etc` directory contains many Linux configuration files. I used `os-release
 cd /etc
 cat os-release
 ```
+<img width="1920" height="917" alt="5" src="https://github.com/user-attachments/assets/56d3ace3-68a9-4b3b-a9ba-5eb09ac9e608" />
 
 The output identified the system as:
 
