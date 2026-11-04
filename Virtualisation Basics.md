@@ -54,11 +54,9 @@ I learned that containers are a good fit when a company wants to run several sma
 
 In the Virtualization Manager activity, I investigated an issue with the company’s email service. I found that the `Mail-SERVER` VM was in an error state and restarted it using the available action.
 
-**[Insert screenshot: Restarting the `Mail-SERVER` VM]**
+<img width="1913" height="976" alt="1" src="https://github.com/user-attachments/assets/d02d227b-d6d8-4e5f-af01-fe6e190efd65" />
 
 After restarting it, I checked its status and confirmed that it was back online and working correctly.
-
-**[Insert screenshot: `Mail-SERVER` back online after restart]**
 
 I then created a VM for the marketing team’s website with these settings:
 
@@ -67,7 +65,7 @@ I then created a VM for the marketing team’s website with these settings:
 - **Memory:** 8 GB
 - **Disk size:** 100 GB
 
-**[Insert screenshot: Creating the `Marketing-VM` with its hardware settings]**
+<img width="1920" height="980" alt="2" src="https://github.com/user-attachments/assets/2ac41422-0c7c-465c-bad6-b4320fdd538a" />
 
 After creating the VM, I checked the physical host information. I noted that `HV-PROD-01` had room for more VMs, `HV-PROD-02` was close to full capacity, and `HV-BACKUP-01` was disconnected and hosting no VMs.
 
