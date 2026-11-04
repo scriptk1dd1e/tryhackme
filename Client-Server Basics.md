@@ -43,11 +43,11 @@ HTTP uses methods to describe the type of request. The room introduced methods s
 
 In the lab, I opened the webpage and used Firefox Developer Tools to inspect its network activity. The Network tab showed the requests made by the browser and details such as the scheme, host, requested file, server address, and status. The example request returned **200 OK**, indicating it was successful.
 
-**[Insert screenshot: Firefox Developer Tools open with the Network tab showing the page’s GET requests]**
+<img width="1918" height="980" alt="3" src="https://github.com/user-attachments/assets/b6cb638a-ea03-44ed-82d2-b4ccb9d20edd" />
 
 The server’s response has two main parts: a **response header**, which contains metadata, and a **response body**, which contains the requested content. I opened the Response section to view the webpage’s HTML.
 
-**[Insert screenshot: The request’s Response section showing the returned HTML code]**
+<img width="1912" height="982" alt="4" src="https://github.com/user-attachments/assets/cbaa4990-e192-4549-a491-f5f09abaa652" />
 
 **Answers**
 
