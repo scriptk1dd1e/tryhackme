@@ -18,11 +18,11 @@ I started by checking my current location with `cd` and listing the contents of 
 
 To move between folders, I used `cd` followed by the folder name. When I didn’t know where the brief was stored, I used `dir /s task_brief.txt` to search through the current directory and its subfolders.
 
-**[Insert screenshot: Using `cd` to navigate between folders in Command Prompt]**
+<img width="1917" height="921" alt="1" src="https://github.com/user-attachments/assets/d30c6825-2f0b-407b-80f6-2bf95a343fdf" />
 
 After locating the file, I used `type task_brief.txt` to read its contents in Command Prompt.
 
-**[Insert screenshot: Running `dir /s task_brief.txt` to find the file]**
+<img width="1920" height="937" alt="2" src="https://github.com/user-attachments/assets/40788194-020e-4e6b-ad9a-aec25c99d642" />
 
 **Useful commands**
 
@@ -44,11 +44,11 @@ After locating the file, I used `type task_brief.txt` to read its contents in Co
 
 I then used Command Prompt to find out more about the computer. The `whoami` command showed which account I was logged in as, and `hostname` displayed the computer’s name.
 
-**[Insert screenshot: Running `whoami` and `hostname` in Command Prompt]**
+<img width="1910" height="925" alt="3" src="https://github.com/user-attachments/assets/9f839336-f2a4-477e-a7a3-692cceb2ed87" />
 
 I used `systeminfo` to check details about the operating system and `ipconfig` to view the computer’s network configuration.
 
-**[Insert screenshot: Running `ipconfig` and viewing the network information]**
+<img width="1920" height="927" alt="4" src="https://github.com/user-attachments/assets/514653d3-5408-4974-9a6f-dea3d047530b" />
 
 **Useful commands**
 
