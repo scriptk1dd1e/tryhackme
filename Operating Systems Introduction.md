@@ -54,7 +54,7 @@ I opened the **About This Computer** shortcut on the virtual machine’s desktop
 - **Ubuntu MATE version:** `1.26.2`
 - **Allocated memory:** `1.9 GiB`
 
-**[Insert screenshot: About This Computer window showing the Ubuntu MATE version and allocated memory]**
+<img width="1913" height="931" alt="1" src="https://github.com/user-attachments/assets/245ea0df-ff58-4ad4-91eb-ef4aaf7de99c" />
 
 ## 5. GUI, CLI, and Operating System Types
 
@@ -69,7 +69,7 @@ The room also introduced several operating system categories, including desktop,
 
 I continued investigating the virtual computer using System Monitor and the Home directory. In the File Systems tab, I checked the `/dev/root` device type. I also looked through the Home directory and found three user directories. Then I opened Alex’s Documents folder to find the flag in `note.txt`.
 
-**[Insert screenshot: Home directory showing the three user directories]**
+<img width="1917" height="922" alt="2" src="https://github.com/user-attachments/assets/fb9ec383-2d37-4f9e-b56b-2930fbcf1710" />
 
 **Answers**
 
