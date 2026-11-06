@@ -18,15 +18,11 @@ I learned that people commonly use the decimal system, which has ten digits, whi
 
 The room also explained how binary and hexadecimal are useful when working with computer data. For example, hexadecimal values can make raw bytes easier to read.
 
-**[Insert screenshot: Introduction to binary and decimal representation]**
-
 ## 2. Representing Colors
 
 I learned that a color on a computer screen can be represented using red, green, and blue (RGB) values. In a 24-bit color representation, each color channel uses one byte, allowing 256 possible values for red, green, and blue.
 
 The three values together can represent more than 16 million color combinations. Hexadecimal makes these values easier to write: each pair of hex digits represents one byte, and each hex digit corresponds to four binary bits.
-
-**[Insert screenshot: RGB color values shown in binary, decimal, and hexadecimal]**
 
 **Answers**
 
@@ -40,7 +36,9 @@ I practised converting values between decimal, binary, and hexadecimal. I learne
 
 The room also introduced octal, a base-8 system where each digit represents three binary bits.
 
-**[Insert screenshot: Converting hexadecimal values to binary and decimal]**
+<img width="1920" height="917" alt="1" src="https://github.com/user-attachments/assets/cf3c6471-28bc-401f-806a-abe5418a61d9" />
+<img width="1913" height="892" alt="2" src="https://github.com/user-attachments/assets/195e3b53-f715-4d53-86b3-8482a00bd64b" />
+<img width="1920" height="922" alt="3" src="https://github.com/user-attachments/assets/2b371ce2-8266-4e37-8f6d-4d00a2087509" />
 
 **Answers**
 
