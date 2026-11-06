@@ -36,11 +36,11 @@ I reviewed three common areas of operating system security: authentication and w
 
 I connected to the lab machine over SSH using the provided Sammie account and password. After logging in, I used `whoami` to confirm which account I was using, `ls` to list files, and `cat` to read a text file. I also learned that `history` displays commands entered by the current user.
 
-**[Insert screenshot: Logging into Sammie over SSH]**
+<img width="1917" height="918" alt="1" src="https://github.com/user-attachments/assets/082b1f51-4167-4b83-8d44-f74c29eaed1a" />
 
 The exercise then had me try the room’s password list for Johnny. After logging in as Johnny, I used the command history to find the root password, switched to the root account, and read the flag file.
 
-**[Insert screenshot: Cracking Johnny’s password and logging in]**
+<img width="1920" height="920" alt="2" src="https://github.com/user-attachments/assets/96889493-311a-495f-ab57-5b74eca0628f" />
 
 **Useful commands**
 
