@@ -15,7 +15,7 @@ I learned how to use variables to store the secret number, the user’s guess, a
 
 The `print()` function displays messages to the user, and the `tries` variable keeps track of their attempts.
 
-**[Insert screenshot: Variables and user input]**
+<img width="1920" height="922" alt="1" src="https://github.com/user-attachments/assets/890c21a4-b5b1-4b3d-b9dd-9cd7ec7ec29f" />
 
 **Answers**
 
@@ -26,7 +26,7 @@ The `print()` function displays messages to the user, and the `tries` variable k
 
 I learned how to use `if`, `elif`, and `else` to compare the user’s guess with the secret number. The program checks whether the guess is outside the range of 1 to 20, too low, too high, or correct.
 
-**[Insert screenshot: Conditional statements]**
+<img width="1920" height="923" alt="2" src="https://github.com/user-attachments/assets/3a48f1bc-ea84-4a9b-844e-846bf3490385" />
 
 **Answers**
 
@@ -37,7 +37,7 @@ I learned how to use `if`, `elif`, and `else` to compare the user’s guess with
 
 I learned that loops let a program repeat a block of code while a condition remains true. The game uses a `while` loop to keep asking for guesses until the user enters the secret number. Each guess increments the `tries` counter.
 
-**[Insert screenshot: Iterations and the while loop]**
+<img width="1920" height="917" alt="3" src="https://github.com/user-attachments/assets/ceedf220-9164-450b-882d-b42b40df6380" />
 
 **Answers**
 
