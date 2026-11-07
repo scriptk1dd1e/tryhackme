@@ -24,7 +24,7 @@ I learned that ASCII stands for **American Standard Code for Information Interch
 
 ASCII uses seven bits. Some codes represent actions rather than printable symbols—for example, code 10 is LF, which represents a line feed. The room showed how the text `TryHackMe` can be represented as a sequence of ASCII bytes in binary, hexadecimal, octal, or decimal.
 
-**[Insert screenshot: ASCII web activity]**
+<img width="1920" height="926" alt="1" src="https://github.com/user-attachments/assets/26209030-52b0-4449-99e7-359effaa2339" />
 
 **Answers**
 
@@ -38,7 +38,7 @@ I learned that ASCII is limited, especially when representing languages that use
 
 Unicode provides a way to represent characters from languages around the world, along with symbols such as chess pieces and emojis. The room introduced UTF-8, UTF-16, and UTF-32 as Unicode encoding standards.
 
-**[Insert screenshot: Unicode web activity]**
+<img width="1908" height="930" alt="2" src="https://github.com/user-attachments/assets/e2c41909-ac4b-45e9-9ef9-5a454c546a6d" />
 
 ## 4. Key Takeaways
 
