@@ -98,11 +98,11 @@ I learned that the application layer is where users interact with network servic
 
 I started the OSI game, which tests how well I can identify the layers and put them in the correct order.
 
-**[Insert screenshot: Start of the OSI game]**
+<img width="1920" height="936" alt="1" src="https://github.com/user-attachments/assets/4ac71af7-e383-4503-a614-0ae8c9b58b87" />
 
 After completing the game, I reached the end and got the flag.
 
-**[Insert screenshot: End of the OSI game showing the flag]**
+<img width="1920" height="976" alt="2" src="https://github.com/user-attachments/assets/43ecb213-1712-4cbb-ace5-91be25977b22" />
 
 - Flag: **`[Add flag]`**
 
