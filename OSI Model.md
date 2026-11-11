@@ -104,7 +104,7 @@ After completing the game, I reached the end and got the flag.
 
 <img width="1920" height="976" alt="2" src="https://github.com/user-attachments/assets/43ecb213-1712-4cbb-ace5-91be25977b22" />
 
-- Flag: **`[Add flag]`**
+- Flag: **`[OSI_DUNGEON_ESCAPED]`**
 
 ## 10. Key Takeaways
 
