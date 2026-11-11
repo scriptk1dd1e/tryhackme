@@ -3,7 +3,7 @@
 **Platform:** TryHackMe  
 **Room:** OSI Model  
 **Difficulty:** Beginner  
-**Status:** In Progress
+**Status:** Completed
 
 ## Overview
 
