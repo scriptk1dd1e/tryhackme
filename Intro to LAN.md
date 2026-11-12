@@ -19,7 +19,7 @@ A bus topology connects devices along one backbone cable. It is relatively inexp
 
 A ring topology connects devices in a loop, with data traveling around the ring. It can be easier to troubleshoot and is less prone to bus-style bottlenecks, but a broken cable or device can disrupt the entire network.
 
-**[Insert screenshot: Intro to LAN lab website showing the topology practical]**
+<img width="1920" height="923" alt="1" src="https://github.com/user-attachments/assets/6fc7d069-4eaa-4a6b-987b-dea62621a3de" />
 
 **Answers**
 
