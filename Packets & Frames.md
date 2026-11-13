@@ -35,7 +35,8 @@ TCP uses sequence numbers to keep data in order and a checksum to help check dat
 
 I completed the practical by reassembling the TCP handshake in the correct order.
 
-**[Insert screenshot: Task 3 handshake practical showing the completed conversation and flag]**
+<img width="1920" height="938" alt="1" src="https://github.com/user-attachments/assets/25e905e2-59bf-4deb-847d-2ef3e2e49f6a" />
+<img width="1920" height="936" alt="2" src="https://github.com/user-attachments/assets/df42b2e4-5f5f-4c2f-b85b-75d46dc8e7f2" />
 
 - Flag: **`[TCP_CHATTER]`**
 
