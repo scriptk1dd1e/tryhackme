@@ -33,7 +33,8 @@ A stateful firewall considers the behavior of an entire connection, while a stat
 
 I completed the firewall practical by configuring rules to prevent malicious traffic from reaching the web server.
 
-**[Insert screenshot: Firewall practical showing the configured rule and completed result]**
+<img width="1918" height="912" alt="1" src="https://github.com/user-attachments/assets/e422b56e-188d-4a8b-a0ab-f944f6990bc0" />
+<img width="1920" height="927" alt="2" src="https://github.com/user-attachments/assets/b82cd521-c1bd-46e7-9c6f-640aac1f7806" />
 
 - Flag: **`THM{FIREWALLS_RULE}`**
 
@@ -63,7 +64,7 @@ Switches connect devices on a network. Layer 2 switches forward frames using MAC
 
 I used the network simulator to follow the steps a packet takes as it travels between devices. I sent a TCP packet from computer1 to computer3 and checked the network log.
 
-**[Insert screenshot: Network simulator showing the TCP packet sent from computer1 to computer3 and the network log]**
+<img width="1912" height="933" alt="3" src="https://github.com/user-attachments/assets/c740f4a8-b495-4da1-8292-88f8c4202c3e" />
 
 **Answers**
 
